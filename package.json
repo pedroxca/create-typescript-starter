@@ -1,6 +1,6 @@
 {
   "name": "create-typescript-starter",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "bin": {
     "create-typescript-project": "index.js"
   },
