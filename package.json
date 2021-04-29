@@ -1,0 +1,19 @@
+{
+  "name": "create-typescript-starter",
+  "version": "0.0.4",
+  "bin": {
+    "create-typescript-project": "index.js"
+  },
+  "description": "A CLI to automatically clone the typescript starter api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedroxca/create-typescript-project.git"
+  },
+  "keywords": [],
+  "author": "PFORM <faustinopedro.faustino@gmail.com>",
+  "license": "MIT"
+}
